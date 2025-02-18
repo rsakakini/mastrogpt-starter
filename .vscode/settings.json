@@ -29,5 +29,8 @@
                 "cursorDown"
             ]
         }
+    ],
+    "python.analysis.extraPaths": [
+        "./packages/form/auth"
     ]
 }
