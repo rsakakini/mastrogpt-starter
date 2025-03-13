@@ -6,3 +6,6 @@ __pycache__/
 node_modules/
 *.zip
 olaris-ai
+packages/vision/store.zip.tmp2
+packages/vision/store.zip.tmp1
+packages/vision/store.zip.tmp
