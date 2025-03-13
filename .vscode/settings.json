@@ -31,6 +31,8 @@
         }
     ],
     "python.analysis.extraPaths": [
-        "./packages/form/auth"
+        "./packages/form/auth",
+        "./packages/vision/store",
+        "./packages/vision/form"
     ]
 }
