@@ -10,7 +10,7 @@
     "remoteEnv": {
         "OPS_BRANCH": "main"
     },
-	"postCreateCommand": "ops -update ; ops -plugin https://gitub.com/mastrogpt/olaris-ai ; ops ai lesson",
+	"postCreateCommand": "ops -update ; ops -plugin https://github.com/mastrogpt/olaris-ai ; ops ai lesson",
 	"customizations": {
 		"vscode": {
 			"extensions": [
