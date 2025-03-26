@@ -65,7 +65,7 @@ class VectorDB:
              print("token ----" + token)
              print("LENGHT TOKEN ****" )
              print(len(token))
-
+ 
              if(len(token)>1024):
                 info = token[:1000]
              else:
